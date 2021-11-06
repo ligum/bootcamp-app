@@ -1,3 +1,4 @@
+![image](https://bootcamp.rhinops.io/images/weight-tracker.png)
 # Node.js Weight Tracker
 
 ![Demo](docs/build-weight-tracker-app-demo.gif)
